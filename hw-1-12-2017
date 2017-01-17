@@ -21,6 +21,11 @@ ls Reading Comprehension
 3. yes
 4. yes
 
+Exploring More ls Arguments
+The command ls with -l makes the directory you are in list the files and directories in a more detailed format. This includes the date it was last modified and the file size. The -h argument makes the file size human readable. 
+
+ 
+
 
 
 
