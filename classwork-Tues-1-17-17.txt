@@ -1,1 +1,10 @@
 I will place my fun in class work here.
+.
+..
+badly named file.txt
+classwork-Tues-1-17-17.txt
+.config
+.git
+README.md
+README.txt
+temp.txt
