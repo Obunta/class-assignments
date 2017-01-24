@@ -1,3 +1,139 @@
 ../../../../../Desktop/eeb-177/class-assignments/classwork-Tues-1-17-17.txt
 ../../../../../Desktop/eeb-177/class-assignments/classwork-thursday-1-19.txt
 ../../../../../Desktop/eeb-177/class-assignments/classwork-tuesday-1-24-17.txt
+
+  817  git push
+  818  cd
+  819  cd ..
+  820  cd ~
+  821  cd Desktop/eeb-177/CSB/
+  822  cd unix/
+  823  cd sandbox/
+  824  wget http://tinyurl.com/cep-taxa -O cep-taxa.txt
+  825  less
+  826  less  http://tinyurl.com/cep-taxa -O cep-taxa.txt
+  827  man grwp
+  828  man grep
+  829  grep Orchidacea ceo-taxa.txt
+  830  grep Orchidacea cep-taxa.txt
+  831  grep -c  Orchidacea cep-taxa.txt
+  832  grep Falcon cep-taxa.txt
+  833  grep falcon cep-taxa.txt
+  834  grep -i falcon cep-taxa.txt
+  835  grep -i -w ara cep-taxa.txt
+  836* grep -B 3 -i -w cebus 
+  837  grep -B 3 -i -w Cebus  cep-taxa.txt
+  838* grep -i -w iguanas cep-taxa.txt
+  839  grep -B 3 -i -w iguana  cep-taxa.txt
+  840  grep -n -i -w iguana  cep-taxa.txt
+  841  grep -c -v -i -w ara cep-taxa.txt
+  842  grep -n -v -i -w ara cep-taxa.txt
+  843  grep -n -v -i -w ara cep-taxa.txt > non-macaws.txt
+  844  ls
+  845  ls -l
+  846* 
+  847  ls -l
+  848  ls -la
+  849  pwd
+  850  ls  ../
+  851  find  ../data
+  852  find  ../sandbox
+  853  find /home/eeb177-student/CSB/unix/sandbox
+  854  find ../data/ | wc -l
+  855  find ../data -name "30.txt"
+  856  find ../data/ -name "30.txt"
+  857  find ../data/ -name "n30.txt"
+  858  cd ../
+  859  cd ../data
+  860  cd sandbox/
+  861  find ../data/ -iname "*about*"
+  862* 
+  863  ../../../../../Desktop/ -iname "*classwork*"
+  864  ../.././Desktop/ -iname "*classwork*"
+  865  ../../../../Desktop/ -iname "*classwork*"
+  866  ../../../../Desktop/ -iname "*class*"
+  867  ../../../../../Desktop/ -iname "*class*"
+  868  ../../../../../Desktop/ -iname "*classwork*"
+  869  ../../../../../Desktop/eeb-177 -iname "*classwork*"
+  870* 
+  871  cd ..
+  872  ../../../../../Desktop/eeb-177 -iname "*classwork*" >> ../../class-assignments/classwork-tuesday-1-24-17.txt 
+  873  find ../../../../../Desktop/eeb-177 -iname "*classwork*" >> ../../class-assignments/classwork-tuesday-1-24-17.txt 
+  874  find ../../../../../Desktop/eeb-177 -iname "*classwork*" >> ../../../class-assignments/classwork-tuesday-1-24-17.txt 
+  875  find ../../../../../Desktop/eeb-177 -iname "*classwork*" >> ../../../eeb-177/class-assignments/classwork-tuesday-1-24-17.txt 
+  876  find ../../../../../Desktop/eeb-177 -iname "*classwork*" >> ../../../../../eeb-177/class-assignments/classwork-tuesday-1-24-17.txt 
+  877  find ../../../../../Desktop/eeb-177 -iname "*classwork*" >> ../../../../../Desktop/eeb-177/class-assignments/classwork-tuesday-1-24-17.txt 
+  878  find ../../../../../Desktop/eeb-177 -iname "*classwork*"
+  879  find ../../../../../eeb177-student/Desktop/eeb-177/ "*classwork*"
+  880  cd sandbox/
+  881  touch permission.txt
+  882  ls -l
+  883  find ../../../../../Desktop/ -iname "*classwork*"
+  884  find ../../../../../Desktop/ -iname "*classwork*" >> ../../../class-assignments/classwork-tuesday-1-24-17.txt 
+  885  cd ..clr
+  886  cd ~
+  887  cd Desktop/eeb-177/
+  888  git status
+  889  cd class-assignments/
+  890  git status
+  891  git commit -m "saving pathways to tuesday 1-24"
+  892  git add classwork-tuesday-1-24-17.txt 
+  893  git status
+  894  git commit -m "saving pathways for 1-24-17 classwork assignment"
+  895  git push
+  896  cd ~
+  897  cd Desktop/eeb-177/CSB/
+  898  cd unix
+  899  cd sandbox/
+  900  ls -l
+  901  chmod g+w, u+w permission.txt 
+  902  chmod g+w,u+w permission.txt 
+  903  ls -l permission.txt 
+  904  ls -l
+  905  chmod g+w,u+w permission.txt 
+  906  ls -l permission.txt 
+  907  chmod u=rwx permission.txt 
+  908  ls -l
+  909  chmod g+w,u+w permission.txt 
+  910  ls -l permission.txt 
+  911  chmod g+w,u+w permission.txt chmod g=rw permission.txt 
+  912  chmod g+w,u+w permission.txt
+  913  ls -l
+  914  chmod g+w permission.txt
+  915  ls -l
+  916  chmod u+x permission.txt
+  917  ls -l
+  918  chmod g=rw permission.txt 
+  919  ls -l
+  920  chmod g+w,u+x permission.txt chmod g+w,u+x permission.txt 
+  921  chmod g+w permission.txt 
+  922  chmod u+x permission.txt 
+  923  ls -l
+  924  chmod g=rwx permission.txt 
+  925  ls -l
+  926  chmod g=rw permission.txt 
+  927  ls -l
+  928  chmod o=rw permission.txt 
+  929  ls -l
+  930  chmod o permission.txt 
+  931  chmod u-x permission.txt 
+  932  ls -l
+  933  chmod g+wx
+  934  chmod g+wx permission.txt 
+  935  ls -l
+  936  chmod u+x,g-x,o-rwx permission.txt 
+  937  ls -l
+  938  hist
+  939  cd ..
+  940  cd ~
+  941  cd Desktop/eeb-177/class-assignments/
+  942  pwd
+  943  ls -l
+  944  hist
+  945  man hist
+  946  print hist
+  947  history
+  948  history 10
+  949  948-813
+  950  history 135
+  951  history 135 >> ../class-assignments/classwork-tuesday-1-24-17.txt 
