@@ -1,0 +1,131 @@
+  876  jupyter notebook
+  877  ls -l
+  878  touch classwork-thursday-1-26-17.txt
+  879  ls -a
+  880  git status
+  881  git add classwork-thursday-1-26-17.txt 
+  882  git status
+  883  git commit -m "classwork thursday 1/26"
+  884  git push
+  885  ls -l
+  886  touch permissions.txt
+  887  ls -l
+  888  chmod u=rwx permissions.txt 
+  889  ls -l
+  890  chmod g+w, u+x permissions.txt 
+  891  chmod g+w permissions.txt 
+  892  ls -l
+  893  chmod o+w permissions.txt 
+  894  ls -l
+  895  chmod o-rw permissions.txt 
+  896  ls -l
+  897  git status
+  898  gedit
+  899  ls
+  900  cd ..
+  901  cd ~
+  902  mkdir scripts
+  903  ls
+  904  ls -l
+  905  gedit .bash_profile
+  906  ls -a
+  907  $PATH 
+  908  ls -a
+  909  ls dir.sh
+  910  ls -l
+  911  cd Desktop
+  912  clear
+  913  cd ~
+  914  cd scripts/
+  915  ~/Desktop/eeb-177/class-assignments/ls -a
+  916  ~/Desktop/eeb-177/class-assignments/ ls
+  917  ~/Desktop/eeb-177/class-assignments
+  918  mv /home/eeb177-student/Desktop/eeb-177/class-assignments/dir.sh .
+  919  ls
+  920  chmod u+rwx dir.sh 
+  921  ls
+  922  ls -l
+  923  #! /bin/bash
+  924  ls -l
+  925  git init
+  926  git status
+  927  sudo reboot
+  928  cd scripts/
+  929  ls -l
+  930  sudo reboot
+  931  cd scripts/
+  932  git status
+  933  #! /bin/bash
+  934  ls -l
+  935  gedit dir.sh
+  936  ls -l
+  937  gedit dir.sh 
+  938  cd Desktop/
+  939  dir.sh
+  940  sudo reboot
+  941  cd Desktop/
+  942  history
+  943  dir.sh
+  944  cd ~
+  945  cd scripts/
+  946  gedit
+  947  gedit In_class_script.sh
+  948  ls -l
+  949  chmod u+x In_class_script.sh 
+  950  ls -l
+  951  cd ~ Desktop
+  952  cd ~
+  953  cd Desktop/
+  954  cd eeb-177/
+  955  cd lab-work/
+  956  In_class_script.sh 
+  957  cd ~
+  958  cd scripts/
+  959  ls -l
+  960  gedit .bash_profile
+  961  ls -l
+  962  cd
+  963  ~/Desktop/eeb-177/class-assignments/
+  964  ls
+  965  ipython
+  966  cd scripts/
+  967  ls -l
+  968  $PATH
+  969  cd ~
+  970  less .profile
+  971  less .bash_profile 
+  972  cd scripts/
+  973  gedit .profile
+  974  cd ~
+  975  gedit .profile 
+  976  dir.sh
+  977  sudo reboot
+  978  $PATH
+  979  ~
+  980  cd Desktop/
+  981  dir.sh
+  982  ls -l
+  983  cd
+  984  ls -l
+  985  cd scripts/
+  986  git status
+  987  git init
+  988  git status
+  989  git add .bash_profile 
+  990  git add In_class_script.sh 
+  991  git add dir.sh 
+  992  git status
+  993  git commit -m "adding script"
+  994  git push
+  995  git remote add origin https://github.com/Obunta/scripts.git
+  996  git push -u origin master
+  997  ls -l
+  998  cd
+  999  cd Desktop/
+ 1000  cd eeb-177/class-assignments/
+ 1001  ls -l
+ 1002  history
+ 1003  history 130
+ 1004  hsitory 130 >> classwork-thursday-1-26-17.txt 
+ 1005  history 130 >> classwork-thursday-1-26-17.txt 
+
